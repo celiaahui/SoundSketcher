@@ -5,6 +5,11 @@ SoundSketcher is a music editor I developed in Java for my CS1420 course at the 
 
 This project helped me practice object-oriented programming while learning how to build an interactive application using Java Swing.
 
+
+## Screenshot
+
+![SoundSketcher Interface](Capture%20d%27%C3%A9cran%202026-10-17%20010526.png)
+
 ## Features
 
 - Create music using up to 10 different tracks.
